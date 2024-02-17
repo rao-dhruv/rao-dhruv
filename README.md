@@ -1,7 +1,5 @@
-[![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)](https://dstar-web.github.io)
 <h1 align="center">Hi 👋, I'm Dhruv Rao</h1>
 <h3 align="center">Passionate coder, innovator, and problem solver. Transforming ideas into elegant solutions. 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dstar-web" alt="dstar-web" /></a> </p>
 
