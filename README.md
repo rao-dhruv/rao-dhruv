@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvrao16" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvrao16?logo=twitter&style=for-the-badge" alt="dhruvrao16" /></a> </p>
 
-- 🔭 I’m currently working on **Record Linkage**
+- 🔭 I’m currently working on **Record Linkage.**
 
-- 🌱 I’m currently learning **React.js and Node.JS**
+- 🌱 I’m currently learning **React.js and Node.JS.**
 
-- 💬 Ask me about **Python, JavaScript, Java, HTML/CSS and Machine Learning**
+- 💬 Ask me about **Python, JavaScript, Java, HTML/CSS, and Machine Learning.**
 
 - 📫 How to reach me **rao_dhruv@outlook.com**
 
