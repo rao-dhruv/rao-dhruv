@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Rao</h1>
 <h3 align="center">Passionate coder, innovator, and problem solver. Transforming ideas into elegant solutions. 🚀</h3>
 
-<p align="left"> <a href="https://twitter.com/i_dhruvrao" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvrao16?logo=twitter&style=for-the-badge" alt="dhruvrao16" /></a> </p>
+<p align="left"> <a href="https://twitter.com/i_dhruvrao" target="blank"><img src="https://img.shields.io/twitter/follow/i_dhruvrao?logo=twitter&style=for-the-badge" alt="i_dhruvrao" /></a> </p>
 
 - 🔭 I’m currently working on **Record Linkage.**
 
