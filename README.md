@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Rao</h1>
 <h3 align="center">Passionate coder, innovator, and problem solver. Transforming ideas into elegant solutions. 🚀</h3>
 
-<p align="left"> <a href="https://twitter.com/dhruvrao16" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvrao16?logo=twitter&style=for-the-badge" alt="dhruvrao16" /></a> </p>
+<p align="left"> <a href="https://twitter.com/i_dhruvrao" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvrao16?logo=twitter&style=for-the-badge" alt="dhruvrao16" /></a> </p>
 
 - 🔭 I’m currently working on **Record Linkage.**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dhruvrao16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvrao16" height="30" width="40" /></a>
+<a href="https://twitter.com/i_dhruvrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvrao16" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruvrao19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvrao19" height="30" width="40" /></a>
 <a href="https://instagram.com/i.dhruvrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.dhruvrao" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhruv_nikuu53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruv_nikuu53" height="30" width="40" /></a>
