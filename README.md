@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js and Node.JS.**
 
-- 💬 Ask me about **Python, JavaScript, Java, HTML/CSS, and Machine Learning.**
+- 💬 Ask me about **Python, JavaScript, SQL, and Machine Learning.**
 
 - 📫 How to reach me **rao_dhruv@outlook.com**
 
