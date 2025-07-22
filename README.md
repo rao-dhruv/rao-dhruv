@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Rao</h1>
 <h3 align="center">Passionate coder, innovator, and problem solver. Transforming ideas into elegant solutions. 🚀</h3>
 
-<p align="left"> <a href="https://twitter.com/i_dhruvrao" target="blank"><img src="https://img.shields.io/twitter/follow/i_dhruvrao?logo=twitter&style=for-the-badge" alt="i_dhruvrao" /></a> </p>
-
 - 💬 Ask me about **Python, LLMs with RAG, JavaScript, SQL, Git, and Machine Learning.**
 
 - 📫 How to reach me **dhruv.rao1903@gmail.com**
