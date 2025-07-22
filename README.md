@@ -3,13 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/i_dhruvrao" target="blank"><img src="https://img.shields.io/twitter/follow/i_dhruvrao?logo=twitter&style=for-the-badge" alt="i_dhruvrao" /></a> </p>
 
-- 🔭 I’m currently working on **Record Linkage.**
+- 💬 Ask me about **Python, LLMs with RAG, JavaScript, SQL, Git, and Machine Learning.**
 
-- 🌱 I’m currently learning **React.js and Node.JS.**
-
-- 💬 Ask me about **Python, JavaScript, SQL, and Machine Learning.**
-
-- 📫 How to reach me **rao_dhruv@outlook.com**
+- 📫 How to reach me **dhruv.rao1903@gmail.com**
 
 - 🖥️ Visit my Portfolio by clicking here 👉🏻 <a href="https://rao-dhruv.github.io/" target="blank">**https://rao-dhruv.github.io/**</a>
 
