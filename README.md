@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Rao</h1>
 <h3 align="center">Passionate coder, innovator, and problem solver. Transforming ideas into elegant solutions. 🚀</h3>
 
-- 💬 Ask me about *Python, LLMs with RAG, JavaScript, SQL, Git, and Machine Learning*.
+- 💬 Ask me about *Python, LLMs with RAG, Agentic AI, JavaScript, SQL, Git, and Machine Learning*.
 
 - 📫 How to reach me **dhruv.rao1903@gmail.com**
 
